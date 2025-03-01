@@ -1,6 +1,8 @@
 # Apple Catch Game
 
 A simple terminal-based game where players catch falling apples.
+## 🍎 Start
+To start the game, run the Game.sln file in your IDE and select Configure Startup Project/ApplesGame.
 
 ## 🍎 Features
 - Arrow key controls for PacKMen movement
