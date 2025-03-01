@@ -1,0 +1,103 @@
+﻿'ApplesGame.exe' (Win32): Loaded 'D:\XYZ C++ for gamedevelopment\part1\block1\lesson4\GameApplemy\ApplesGame\x64\Debug\ApplesGame.exe'. Symbols loaded.
+'ApplesGame.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
+'ApplesGame.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
+'ApplesGame.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+'ApplesGame.exe' (Win32): Loaded 'C:\ProgramData\Symantec\Symantec Endpoint Protection\14.3.7388.4000.105\Data\Sysfer\x64\sysfer.dll'. 
+'ApplesGame.exe' (Win32): Loaded 'C:\Windows\System32\gdi32.dll'. 
+'ApplesGame.exe' (Win32): Loaded 'C:\Windows\System32\gdi32full.dll'. 
+'ApplesGame.exe' (Win32): Loaded 'C:\Windows\System32\msvcp_win.dll'. 
+'ApplesGame.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbase.dll'. 
+'ApplesGame.exe' (Win32): Loaded 'C:\Windows\System32\user32.dll'. 
+'ApplesGame.exe' (Win32): Loaded 'C:\Windows\System32\win32u.dll'. 
+'ApplesGame.exe' (Win32): Loaded 'C:\Windows\System32\advapi32.dll'. 
+'ApplesGame.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. 
+'ApplesGame.exe' (Win32): Loaded 'C:\Windows\System32\sechost.dll'. 
+'ApplesGame.exe' (Win32): Loaded 'C:\Windows\System32\rpcrt4.dll'. 
+'ApplesGame.exe' (Win32): Loaded 'C:\Windows\System32\winmm.dll'. 
+'ApplesGame.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140d.dll'. 
+'ApplesGame.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140_1d.dll'. 
+'ApplesGame.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. 
+'ApplesGame.exe' (Win32): Loaded 'C:\Windows\System32\winmmbase.dll'. 
+'ApplesGame.exe' (Win32): Loaded 'C:\Windows\System32\cfgmgr32.dll'. 
+'ApplesGame.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. 
+'ApplesGame.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. 
+'ApplesGame.exe' (Win32): Unloaded 'C:\Windows\System32\vcruntime140d.dll'
+'ApplesGame.exe' (Win32): Loaded 'C:\Windows\System32\opengl32.dll'. 
+'ApplesGame.exe' (Win32): Loaded 'C:\Windows\System32\glu32.dll'. 
+'ApplesGame.exe' (Win32): Loaded 'C:\Windows\System32\imm32.dll'. 
+'ApplesGame.exe' (Win32): Loaded 'C:\Windows\System32\uxtheme.dll'. 
+'ApplesGame.exe' (Win32): Loaded 'C:\Windows\System32\combase.dll'. 
+'ApplesGame.exe' (Win32): Loaded 'C:\Windows\System32\bcryptprimitives.dll'. 
+'ApplesGame.exe' (Win32): Loaded 'C:\Windows\System32\msctf.dll'. 
+'ApplesGame.exe' (Win32): Loaded 'C:\Windows\System32\oleaut32.dll'. 
+'ApplesGame.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\nv_dispig.inf_amd64_d3828c822366e497\nvoglv64.dll'. 
+'ApplesGame.exe' (Win32): Loaded 'C:\Windows\System32\shell32.dll'. 
+'ApplesGame.exe' (Win32): Loaded 'C:\Windows\System32\SHCore.dll'. 
+'ApplesGame.exe' (Win32): Loaded 'C:\Windows\System32\windows.storage.dll'. 
+'ApplesGame.exe' (Win32): Loaded 'C:\Windows\System32\profapi.dll'. 
+'ApplesGame.exe' (Win32): Loaded 'C:\Windows\System32\powrprof.dll'. 
+'ApplesGame.exe' (Win32): Loaded 'C:\Windows\System32\shlwapi.dll'. 
+'ApplesGame.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. 
+'ApplesGame.exe' (Win32): Loaded 'C:\Windows\System32\cryptsp.dll'. 
+'ApplesGame.exe' (Win32): Loaded 'C:\Windows\System32\setupapi.dll'. 
+'ApplesGame.exe' (Win32): Loaded 'C:\Windows\System32\bcrypt.dll'. 
+'ApplesGame.exe' (Win32): Loaded 'C:\Windows\System32\ole32.dll'. 
+'ApplesGame.exe' (Win32): Loaded 'C:\Windows\System32\wtsapi32.dll'. 
+'ApplesGame.exe' (Win32): Loaded 'C:\Windows\System32\version.dll'. 
+'ApplesGame.exe' (Win32): Loaded 'C:\Windows\System32\msasn1.dll'. 
+'ApplesGame.exe' (Win32): Loaded 'C:\Windows\System32\cryptnet.dll'. 
+'ApplesGame.exe' (Win32): Loaded 'C:\Windows\System32\crypt32.dll'. 
+'ApplesGame.exe' (Win32): Loaded 'C:\Windows\System32\drvstore.dll'. 
+'ApplesGame.exe' (Win32): Loaded 'C:\Windows\System32\devobj.dll'. 
+'ApplesGame.exe' (Win32): Loaded 'C:\Windows\System32\wldp.dll'. 
+'ApplesGame.exe' (Win32): Loaded 'C:\Windows\System32\wintrust.dll'. 
+'ApplesGame.exe' (Win32): Loaded 'C:\Windows\System32\cryptbase.dll'. 
+'ApplesGame.exe' (Win32): Loaded 'C:\Windows\System32\ntmarta.dll'. 
+The thread 0x38e4 has exited with code 0 (0x0).
+The thread 0x2a60 has exited with code 0 (0x0).
+The thread 0x3808 has exited with code 0 (0x0).
+'ApplesGame.exe' (Win32): Loaded 'C:\Windows\System32\dwmapi.dll'. 
+'ApplesGame.exe' (Win32): Loaded 'C:\Windows\System32\nvspcap64.dll'. 
+'ApplesGame.exe' (Win32): Loaded 'C:\Windows\System32\psapi.dll'. 
+'ApplesGame.exe' (Win32): Loaded 'C:\Windows\System32\dbghelp.dll'. 
+'ApplesGame.exe' (Win32): Unloaded 'C:\Windows\System32\psapi.dll'
+'ApplesGame.exe' (Win32): Unloaded 'C:\Windows\System32\dbghelp.dll'
+'ApplesGame.exe' (Win32): Loaded 'C:\Windows\System32\psapi.dll'. 
+'ApplesGame.exe' (Win32): Loaded 'C:\Windows\System32\dbghelp.dll'. 
+'ApplesGame.exe' (Win32): Unloaded 'C:\Windows\System32\psapi.dll'
+'ApplesGame.exe' (Win32): Unloaded 'C:\Windows\System32\dbghelp.dll'
+'ApplesGame.exe' (Win32): Loaded 'C:\Windows\System32\psapi.dll'. 
+'ApplesGame.exe' (Win32): Loaded 'C:\Windows\System32\dbghelp.dll'. 
+'ApplesGame.exe' (Win32): Unloaded 'C:\Windows\System32\psapi.dll'
+'ApplesGame.exe' (Win32): Unloaded 'C:\Windows\System32\dbghelp.dll'
+'ApplesGame.exe' (Win32): Loaded 'C:\Windows\System32\psapi.dll'. 
+'ApplesGame.exe' (Win32): Loaded 'C:\Windows\System32\dbghelp.dll'. 
+'ApplesGame.exe' (Win32): Unloaded 'C:\Windows\System32\psapi.dll'
+'ApplesGame.exe' (Win32): Unloaded 'C:\Windows\System32\dbghelp.dll'
+'ApplesGame.exe' (Win32): Loaded 'C:\Windows\System32\winsta.dll'. 
+'ApplesGame.exe' (Win32): Loaded 'C:\Windows\System32\dinput8.dll'. 
+'ApplesGame.exe' (Win32): Loaded 'C:\Windows\System32\InputHost.dll'. 
+'ApplesGame.exe' (Win32): Loaded 'C:\Windows\System32\CoreMessaging.dll'. 
+'ApplesGame.exe' (Win32): Loaded 'C:\Windows\System32\twinapi.appcore.dll'. 
+'ApplesGame.exe' (Win32): Loaded 'C:\Windows\System32\CoreUIComponents.dll'. 
+'ApplesGame.exe' (Win32): Loaded 'C:\Windows\System32\d2d1.dll'. 
+'ApplesGame.exe' (Win32): Loaded 'C:\Windows\System32\d3d11.dll'. 
+'ApplesGame.exe' (Win32): Loaded 'C:\Windows\System32\propsys.dll'. 
+'ApplesGame.exe' (Win32): Loaded 'C:\Windows\System32\WinTypes.dll'. 
+'ApplesGame.exe' (Win32): Loaded 'C:\Windows\System32\rmclient.dll'. 
+'ApplesGame.exe' (Win32): Loaded 'C:\Windows\System32\dxgi.dll'. 
+'ApplesGame.exe' (Win32): Loaded 'C:\Windows\System32\hid.dll'. 
+'ApplesGame.exe' (Win32): Loaded 'C:\Windows\System32\TextInputFramework.dll'. 
+'ApplesGame.exe' (Win32): Unloaded 'C:\Windows\System32\hid.dll'
+'ApplesGame.exe' (Win32): Unloaded 'C:\Windows\System32\dinput8.dll'
+The thread 0x40e8 has exited with code 0 (0x0).
+The thread 0x42c4 has exited with code 0 (0x0).
+The thread 0x4cc has exited with code 0 (0x0).
+The thread 0x418c has exited with code 0 (0x0).
+The thread 0x850 has exited with code 0 (0x0).
+The thread 0x3a3c has exited with code 0 (0x0).
+The thread 0x30e0 has exited with code 0 (0x0).
+The thread 0x431c has exited with code 0 (0x0).
+The thread 0x3a30 has exited with code 0 (0x0).
+The thread 0x3a70 has exited with code 0 (0x0).
+The program '[7736] ApplesGame.exe' has exited with code 0 (0x0).
